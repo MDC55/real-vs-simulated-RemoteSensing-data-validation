@@ -31,10 +31,9 @@ This module evaluates high-resolution UAV imagery by comparing simulated and rea
 
 **Contents**
 - Image preprocessing
-- Spatial resolution assessment
 - Radiometric comparison
 - Vegetation index validation
-- Fine-scale spatial analysis
+- Statistical validation workflows
 
 ---
 
@@ -65,7 +64,7 @@ The validation framework aims to:
 # Supported Data Types
 
 - Airborne hyperspectral imagery
-- UAV multispectral and RGB imagery
+- UAV multispectral imagery
 - LiDAR point clouds
 
 ---
