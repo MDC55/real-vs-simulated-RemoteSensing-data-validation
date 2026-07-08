@@ -46,6 +46,6 @@ Reusable validation metrics.
 stats/helper module.
 
 ### `src/figures_indices.py`
- new plotting helper module.
+plotting helper module.
 
 
