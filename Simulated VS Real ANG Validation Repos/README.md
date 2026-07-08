@@ -16,8 +16,3 @@ This repo keeps the workflow close to the original scripts, but moves repeated h
 - `scripts/validate_real_vs_sim_ANG_using_narrowband_indices`
 - `scripts/validate_real_vs_sim_ANG_using_uas_indices.py`
 
-
-## Notes
-- Keep your local ENVI and shapefile paths in the builder scripts.
-- The helper bug in `get_reflectance_image()` was fixed so it now uses the passed image instead of a global variable.
-- The code stays close to the original script structure and naming.
